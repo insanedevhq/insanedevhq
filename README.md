@@ -2,7 +2,7 @@ Developer from Ukraine. I build data tools, AI features and web products with AI
 
 ## Data tools on Apify
 
-- [Shopify Store Leads & Finder](https://apify.com/insanedev/shopify-store-list): an index of 392,504 Shopify stores found through Chrome UX Report and Tranco, DNS checks and each store's public metadata. A scheduled pipeline on Apify refreshes it and runs a QA gate before publishing. Apps, theme and public contacts are read live from each storefront.
+- [Shopify Store Leads & Finder](https://apify.com/insanedev/shopify-store-list): an index of 950K Shopify stores found through Chrome UX Report, Tranco and Common Crawl, DNS checks and each store's public metadata. A scheduled pipeline on Apify refreshes it and runs a QA gate before publishing. Apps, theme and public contacts are read live from each storefront.
 - [Shopify Price Tracker & Scraper](https://apify.com/insanedev/shopify-price-tracker): Shopify and WooCommerce catalogues with price, stock and new-product changes between runs.
 - [Google Trends API & Scraper](https://apify.com/insanedev/google-trends-scraper): up to 50 terms on one 0-100 scale, and daily data for years stitched from 269-day windows.
 - [Google Trends Trending Now API](https://apify.com/insanedev/google-trends-trending-now): real-time trending searches in 125 countries.
