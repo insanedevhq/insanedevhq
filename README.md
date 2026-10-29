@@ -28,4 +28,4 @@ Each Actor is benchmarked against the top Apify Store alternatives before releas
 
 Python, TypeScript/Node, Go, Rust, PHP · Laravel, React, Astro, FastAPI, Tauri · Postgres, Docker · Apify, Crawlee, Playwright · MCP, LLM evals · Telegram Bot API, MTProto, TON · WordPress
 
-Contact: hello.insanedev@proton.me
+Site: [insanedev.dev](https://insanedev.dev) · Contact: hello.insanedev@proton.me
